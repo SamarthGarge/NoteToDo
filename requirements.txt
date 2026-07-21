@@ -1,0 +1,5 @@
+streamlit
+spacy
+pandas
+python-dateutil
+pytest
